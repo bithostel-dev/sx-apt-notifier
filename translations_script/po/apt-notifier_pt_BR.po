@@ -320,4 +320,4 @@ msgstr ""
 
 #: apt-notifier.py:1766
 msgid "No unattended-upgrades dpkg log(s) found."
-msgstr "Nenhum log de atualização do dpkg autônomo foi encontrado."
+msgstr "Nenhum log de atualização do dpkg independente foi encontrado."
